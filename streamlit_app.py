@@ -1,5 +1,6 @@
 # Import python packages
 import streamlit as st
+import snowflake.connector
 
 
 # Write directly to the app
