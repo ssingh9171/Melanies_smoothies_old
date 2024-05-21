@@ -3,6 +3,7 @@ import streamlit as st
 from snowflake.snowpark.functions import col
 import snowflake.connector
 import requests
+import pandas as pd
 
 
 # Write directly to the app
